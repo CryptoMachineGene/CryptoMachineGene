@@ -34,10 +34,10 @@ I'm a blockchain developer, educator, consultant, and researcher focused on adva
 I prioritize fundamentals over hype — focusing on utility, tokenomics, institutional movement, and on-chain metrics to uncover real signal.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 📫 Let’s Connect
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📰 Visit the Journal – NewWorldCryptos.io
 🏛️ Our Community Site – NewWorldCryptos.com
