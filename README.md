@@ -4,6 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🧠 About Me
+
 I'm a blockchain developer, educator, consultant, and researcher focused on advancing decentralized technologies, smart contract development, and financial sovereignty. 
 
 As Co-Founder and Co-CEO of New World Cryptos — founded in 2022 and a registered USPTO trademark as of 2024 — I lead a dual-platform initiative dedicated to blockchain education, decentralized infrastructure, and sovereign empowerment. Our original site, NewWorldCryptos.com, is a community education and consulting hub (currently paused while I complete advanced blockchain studies). 
