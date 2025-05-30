@@ -5,11 +5,11 @@
 
 🧠 About Me
 
-I'm a blockchain developer, educator, consultant, and researcher focused on advancing decentralized technologies, smart contract development, and financial sovereignty. 
+I'm a blockchain developer, educator, consultant, writer, and researcher focused on advancing decentralized technologies, smart contract development, and financial sovereignty. 
 
-As Co-Founder and Co-CEO of New World Cryptos — founded in 2022 and a registered USPTO trademark as of 2024 — I lead a dual-platform initiative dedicated to blockchain education, decentralized infrastructure, and sovereign empowerment. Our original site, NewWorldCryptos.com, is a community education and consulting hub (currently paused while I complete advanced blockchain studies). 
+As Co-Founder and Co-CEO of New World Cryptos — created in 2021 and a registered USPTO trademark as of 2024 — I lead a dual-platform initiative dedicated to blockchain education, decentralized infrastructure, and sovereign empowerment. Our original site, NewWorldCryptos.mn.co, is a community education and consulting hub (currently paused while I complete advanced blockchain studies). 
 
-Our latest addition, New World Cryptos Journal, is a self-hosted Ghost publication for blockchain research, dev logs, and crypto intelligence built for the Web3 era. 
+Our latest addition, New World Cryptos Journal at NewWorldCryptos.io, is a self-hosted Ghost publication for blockchain research, dev logs, and crypto intelligence built for the Web3 era. 
 
 I work hands-on with Solidity, Hardhat, Foundry, and related tools to develop and test smart contracts, while also publishing insights that blend code, research, and macro-level analysis.
 
@@ -51,6 +51,7 @@ I prioritize fundamentals over hype — focusing on utility, tokenomics, institu
 💼 LinkedIn – Eugene McGrath
 🐦 X (Twitter) – @CryptoMachineG
 🔗 Linktree – All Links & Projects
+
 Always learning. Always building. Always working toward a decentralized future.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
