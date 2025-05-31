@@ -1,5 +1,5 @@
 👋 Hi, I'm Eugene McGrath
-** Blockchain Developer | Educator | Consultant | Researcher | Co-Founder & Co-CEO of New World Cryptos | U.S. Army Veteran **
+** Blockchain Developer | Educator | Consultant | Writer| Researcher | Co-Founder & Co-CEO of New World Cryptos | U.S. Army Veteran **
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 I'm a blockchain developer, educator, consultant, writer, and researcher focused on advancing decentralized technologies, smart contract development, and financial sovereignty. 
 
-As Co-Founder and Co-CEO of New World Cryptos — created in 2021 and a registered USPTO trademark as of 2024 — I lead a dual-platform initiative dedicated to blockchain education, decentralized infrastructure, and sovereign empowerment. Our original site, NewWorldCryptos.mn.co, is a community education and consulting hub (currently paused while I complete advanced blockchain studies). 
+As Co-Founder and Co-CEO of New World Cryptos — first developed in 2021 and a registered USPTO trademark as of 2024 — I lead a dual-platform initiative dedicated to blockchain education, decentralized infrastructure, and sovereign empowerment. Our original site, NewWorldCryptos.mn.co, is a community education and consulting hub (currently paused while I complete advanced blockchain studies). 
 
 Our latest addition, New World Cryptos Journal at NewWorldCryptos.io, is a self-hosted Ghost publication for blockchain research, dev logs, and crypto intelligence built for the Web3 era. 
 
@@ -16,10 +16,10 @@ I work hands-on with Solidity, Hardhat, Foundry, and related tools to develop an
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📚 Current Focus
- - Publishing dev logs, DeFi research, and token analysis at newworldcryptos.io
+ - Publishing dev logs, DeFi research, and token analysis at NewWorldCryptos.io
  - Building Solidity-based projects (ERC-20/721 tokens, DApps, protocol logic)
  - Exploring macroeconomic shifts, governance models, and RWA/token utility
- - Preparing to relaunch newworldcryptos.com — our paused consulting and onboarding hub — after completing advanced blockchain studies
+ - Preparing to relaunch NewWorldCryptos.mn.co — our paused consulting and onboarding hub — after completing advanced blockchain studies
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
    
