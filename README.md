@@ -19,7 +19,7 @@ I work hands-on with Solidity, Hardhat, Foundry, and related tools to develop an
  - Publishing dev logs, DeFi research, and token analysis at NewWorldCryptos.io
  - Building Solidity-based projects (ERC-20/721 tokens, DApps, protocol logic)
  - Exploring macroeconomic shifts, governance models, and RWA/token utility
- - Preparing to relaunch NewWorldCryptos.mn.co — our paused consulting and onboarding hub — after completing advanced blockchain studies
+<!-- - Preparing to relaunch NewWorldCryptos.mn.co — our paused consulting and onboarding hub — after completing advanced blockchain studies -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
    
