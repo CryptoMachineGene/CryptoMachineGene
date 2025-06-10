@@ -47,11 +47,11 @@ I prioritize fundamentals over hype — focusing on utility, tokenomics, institu
 
 📫 Let’s Connect
 
-📰 Visit the Journal – NewWorldCryptos.io
-🏛️ Our Community Site – NewWorldCryptos.mn.co
-💼 LinkedIn – linkedin.com/in/eugene-mcgrath-550b4897
-🐦 X (Twitter) – @CryptoMachineG
-🔗 All Links & Projects (Linktree) – Linktr.ee/CryptoMachineGene
+- 📰 Visit the Journal – NewWorldCryptos.io
+- 🏛️ Our Community Site – NewWorldCryptos.mn.co
+- 💼 LinkedIn – linkedin.com/in/eugene-mcgrath-550b4897
+- 🐦 X (Twitter) – @CryptoMachineG
+- 🔗 All Links & Projects (Linktree) – Linktr.ee/CryptoMachineGene
 
 Always learning. Always building. Always working toward a decentralized future.
 
