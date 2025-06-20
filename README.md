@@ -1,21 +1,24 @@
-👋 Hi, I'm Eugene McGrath
-** Blockchain Developer | Educator | Consultant | Writer| Researcher | Co-Founder & Co-CEO of New World Cryptos | U.S. Army Veteran **
+# 👋 Hi, I'm Eugene McGrath  
+**Blockchain Developer | Educator | Consultant | Writer | Researcher | Co-Founder & Co-CEO of New World Cryptos® | U.S. Army Veteran**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧠 About Me
+## 🧠 About Me
 
-   I'm a blockchain developer, educator, consultant, writer, and researcher focused on advancing decentralized technologies, smart contract development, and financial sovereignty. 
+I'm a full-stack blockchain developer, writer, and researcher focused on decentralized infrastructure, smart contracts, and financial sovereignty.
 
-  As Co-Founder and Co-CEO of New World Cryptos — first developed in 2021 and a registered USPTO trademark as of 2024 — I lead a dual-platform initiative dedicated to blockchain education, decentralized infrastructure, and sovereign empowerment. Our original site, NewWorldCryptos.mn.co, is a community education and consulting hub (currently paused while I complete advanced blockchain studies). 
+As Co-Founder and Co-CEO of **New World Cryptos®** — originally launched in 2021 and registered with the USPTO in 2024 — I co-lead a dual-platform initiative dedicated to blockchain education and Web3 innovation. While I now drive development and research efforts, credit for the platform’s creation, design, and brand identity goes to my partner and co-founder, **The Decentralized Dreamer**, who architected both our sites.
 
-  Our latest addition, New World Cryptos Journal at NewWorldCryptos.io, is a self-hosted Ghost publication for blockchain research, dev logs, and crypto intelligence built for the Web3 era. 
+Our two platforms include:
+- [**NewWorldCryptos.io**](https://newworldcryptos.io) — a self-hosted Ghost publication for dev logs, crypto research, and sovereign signal
+- [**NewWorldCryptos.mn.co**](https://newworldcryptos.mn.co) — our original community and consulting site (currently paused)
 
-  I work hands-on with Solidity, Hardhat, Foundry, and related tools to develop and test smart contracts, while also publishing insights that blend code, research, and macro-level analysis.
+I work hands-on with Solidity, Hardhat, Foundry, Rust/Anchor, and related tooling — blending code with market research to publish high-context insights for sovereign builders.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📚 Current Focus
+## 📚 Current Focus
+
  - Publishing dev logs, DeFi research, and token analysis at NewWorldCryptos.io
  - Building Solidity-based projects (ERC-20/721 tokens, DApps, protocol logic)
  - Exploring macroeconomic shifts, governance models, and RWA/token utility
@@ -24,28 +27,32 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
    
-🚀 Projects
- - 🧠 New World Cryptos Journal — Blockchain research, dev logs, and sovereign insights
- - 🌐 New World Cryptos — Community education, Web3 consulting, and sovereign onboarding
- - 💻 GitHub Dev Work — Smart contract builds, Solidity experiments, and Web3 infrastructure testing
+## 🚀 Featured Projects
+
+ - 🧠 **New World Cryptos Journal** — Research, dev logs, smart contract experiments
+- 🌐 **New World Cryptos PMA** — Community-first, sovereignty-based crypto consulting
+- 💻 **GitHub Dev Work** — Web3 infrastructure, Solidity projects, Rust/Anchor builds
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+   
+## 📊 Market & Token Research
+
+- **RWA Sector Deep Dives** (e.g., ONDO, Polymesh) with focus on utility and institutional backing  
+- **Macro Trend Analysis**: Fed policy, BTC dominance, cycle shifts  
+- **Hype Filtering**: Comparing high-risk projects using a fundamentals-first lens
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
    
-📊 Crypto Market Analysis
- - Real World Asset (RWA) Sector Focus – Analysis of RWA tokens (e.g., ONDO) based on fundamentals and institutional backing.
- - High-Risk/High-Reward Project Assessments – Observations on volatile projects (e.g., OM/Mantra) using a fundamentals-based risk/reward lens.
- - Macro Market Trend Analysis – Tracking Bitcoin dominance, Federal Reserve policy impacts, and market cycle behavior.
+## 🔍 Research Philosophy
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-   
-🔍 Research Philosophy
-I prioritize fundamentals over hype — focusing on utility, tokenomics, institutional movement, and on-chain metrics to uncover real signal.
+**No hype. No noise. Just signal.**  
+I focus on real-world utility, code clarity, and on-chain transparency — building toward a freer, decentralized future.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-📫 Let’s Connect
+## 📫 Let’s Connect
 
 - 📰 Visit the Journal – NewWorldCryptos.io
 - 🏛️ Our Community Site – NewWorldCryptos.mn.co
@@ -53,9 +60,9 @@ I prioritize fundamentals over hype — focusing on utility, tokenomics, institu
 - 🐦 X (Twitter) – @CryptoMachineG
 - 🔗 All Links & Projects (Linktree) – Linktr.ee/CryptoMachineGene
 
-Always learning. Always building. Always working toward a decentralized future.
+🧠 Always learning. 🛠️ Always building. 🌍 Always working toward a decentralized future.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I’m open to collaborations, dev opportunities, and conversations about building the decentralized future.
+> Open to collaborations, dev roles, and serious crypto conversations.
 
