@@ -7,7 +7,7 @@
 
 I'm a full-stack blockchain developer, writer, and researcher focused on decentralized infrastructure, smart contracts, and financial sovereignty.
 
-As Co-Founder and Co-CEO of **New World Cryptos®** — originally launched in 2021 and registered with the USPTO in 2024 — I co-lead a dual-platform initiative dedicated to blockchain education and Web3 innovation. While I now drive development and research efforts, credit for the platform’s creation, design, and brand identity goes to my partner and co-founder, **The Decentralized Dreamer**, who architected both our sites.
+As Co-Founder and Co-CEO of New World Cryptos® — launched in 2021 and registered with the USPTO in 2024 — I co-lead a dual-platform initiative dedicated to blockchain education and Web3 innovation. While I now drive development and research efforts, the platform’s creation, design, and brand identity were led by my partner and co-founder, The Decentralized Dreamer, who architected both sites from the ground up.
 
 Our two platforms include:
 - [**NewWorldCryptos.io**](https://newworldcryptos.io) — a self-hosted Ghost publication for dev logs, crypto research, and sovereign signal
