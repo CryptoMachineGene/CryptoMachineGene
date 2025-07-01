@@ -11,8 +11,8 @@ As Co-Founder and Co-CEO of New World Cryptos® — launched in 2021 and registe
 
 We operate two core platforms:
 
-- 🌐 [**NewWorldCryptos.io**](https://newworldcryptos.io) – A self-hosted Ghost publication for dev logs, crypto research, and sovereign signal
-- 🧑‍🤝‍🧑 [**NewWorldCryptos.mn.co**](https://newworldcryptos.mn.co) – Our original education and consulting community site (currently paused, soon relaunching)
+- 🧠 [**NewWorldCryptos.io**](https://newworldcryptos.io) – A self-hosted Ghost publication for dev logs, crypto research, and sovereign signal
+- 🌐 [**NewWorldCryptos.mn.co**](https://newworldcryptos.mn.co) – Our original education and consulting community site (currently paused, soon relaunching)
 
 I work hands-on with Solidity, Hardhat, Foundry, Rust/Anchor, and related tooling — blending code with market research to publish high-context insights for sovereign builders.
 
@@ -55,11 +55,11 @@ I focus on real-world utility, code clarity, and on-chain transparency — build
 
 ## 📫 Let’s Connect
 
-- 📰 Visit the Journal – NewWorldCryptos.io
-- 🏛️ Our Community Site – NewWorldCryptos.mn.co
-- 💼 LinkedIn – linkedin.com/in/eugene-mcgrath-550b4897
-- 🐦 X (Twitter) – @CryptoMachineG
-- 🔗 All Links & Projects (Linktree) – Linktr.ee/CryptoMachineGene
+- 📰 Visit the Journal – [**NewWorldCryptos.io**](https://newworldcryptos.io)
+- 🏛️ Our Community Site – [**NewWorldCryptos.mn.co**](https://newworldcryptos.mn.co)
+- 💼 LinkedIn – [**Eugene McGrath**](https://linkedin.com/in/eugene-mcgrath-550b4897)
+- 🐦 X (Twitter) – [**CryptoMachineG**](https://x.com/CryptoMachineG)
+- 🔗 All Links & Projects (Linktree) – [**CryptoMachineGene**](https://linktr.ee/CryptoMachineGene)
 
 🧠 Always learning. 🛠️ Always building. 🌍 Always working toward a decentralized future.
 
