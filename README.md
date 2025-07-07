@@ -39,7 +39,7 @@ I work hands-on with Solidity, Hardhat, Foundry, Rust/Anchor, and related toolin
 ## 📊 Market & Token Research
 
 - **RWA Sector Deep Dives** (e.g., ONDO, Polymesh) with focus on utility and institutional backing  
-- **Macro Trend Analysis**: Fed policy, BTC dominance, cycle shifts, institutional adoption  
+- **Macro Trend Analysis**: Fed policy, BTC dominance, cycle shifts, institutional and global government adoption  
 - **Hype Filtering**: Comparing high-risk projects using a fundamentals-first lens
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
