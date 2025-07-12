@@ -47,7 +47,7 @@ I work hands-on with Solidity, Hardhat, Foundry, Rust/Anchor, and related toolin
 ## 🔍 Research Philosophy
 
 **No hype. No noise. Just signal.**  
-<!--Focusing on real-world utility, code clarity, and on-chain transparency — building toward a freer, decentralized future.-->
+- Focusing on real-world utility, code clarity, and on-chain transparency — building toward a freer, decentralized future.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
