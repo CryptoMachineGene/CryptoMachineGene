@@ -55,11 +55,11 @@ I work hands-on with Solidity, Hardhat, Foundry, Rust/Anchor, and related toolin
 
 ## 📫 Let’s Connect
 
-- 📰 Visit the Journal – [**NewWorldCryptos.io**](https://newworldcryptos.io)
-- 🏛️ Our Community Site – [**NewWorldCryptos.mn.co**](https://newworldcryptos.mn.co)
-- 💼 LinkedIn – [**Eugene McGrath**](https://linkedin.com/in/eugene-mcgrath-550b4897)
-- 🐦 X (Twitter) – [**CryptoMachineG**](https://x.com/CryptoMachineG)
-- 🔗 All Links & Projects (Linktree) – [**CryptoMachineGene**](https://linktr.ee/CryptoMachineGene)
+- 📰 [**NewWorldCryptos.io**](https://newworldcryptos.io) – The Journal
+- 🏛️ [**NewWorldCryptos.mn.co**](https://newworldcryptos.mn.co) – Community Site
+- 💼 [**Eugene McGrath**](https://linkedin.com/in/eugene-mcgrath-550b4897) – LinkedIn
+- 🐦 [**CryptoMachineG**](https://x.com/CryptoMachineG) – X (Twitter)
+- 🔗 [**CryptoMachineGene**](https://linktr.ee/CryptoMachineGene) – All Links & Projects (Linktree)
 
 🧠 Always learning. 🛠️ Always building. 🌍 Always working toward a decentralized future.
 
