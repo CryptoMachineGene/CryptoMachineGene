@@ -14,7 +14,7 @@ We operate two core platforms:
 - 🧠 [**NewWorldCryptos.io**](https://newworldcryptos.io) – A self-hosted Ghost publication for dev logs, crypto research, and sovereign signal
 - 🌐 [**NewWorldCryptos.mn.co**](https://newworldcryptos.mn.co) – Our original education and consulting community site (currently paused, will soon relaunch)
 
-I work hands-on with Solidity, Hardhat, Foundry, Rust/Anchor, and related tooling — blending code with market research to publish high-context insights for sovereign builders.
+I work hands-on with Solidity, Hardhat, Foundry, Node.js, Rust/Anchor, and related tooling — blending code with market research to publish high-context insights for sovereign builders.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
