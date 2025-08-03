@@ -56,7 +56,7 @@ I work hands-on with Solidity, Hardhat, Foundry, Node.js, Rust/Anchor, and relat
 ## 📫 Let’s Connect
 
 - 📰 [**NewWorldCryptos.io**](https://newworldcryptos.io) – The Journal
-- 🏛️ [**NewWorldCryptos.com**](https://wwww.newworldcryptos.com) – Original Hub
+- 🏛️ [**NewWorldCryptos.com**](https://www.newworldcryptos.com) – Original Hub
 - 💼 [**Eugene McGrath**](https://linkedin.com/in/eugene-mcgrath-550b4897) – LinkedIn
 - 🐦 [**CryptoMachineG**](https://x.com/CryptoMachineG) – X (Twitter)
 - 🔗 [**CryptoMachineGene**](https://linktr.ee/CryptoMachineGene) – All Links & Projects (Linktree)
