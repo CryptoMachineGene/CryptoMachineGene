@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Eugene McGrath  
-**Blockchain Developer | Educator | Consultant | Writer | Researcher | Co-Founder & Co-CEO of New World Cryptos® | U.S. Army Veteran**
+**Blockchain Developer | Educator | Consultant | Writer | Researcher | Co-Founder of New World Cryptos® | U.S. Army Veteran**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -7,12 +7,12 @@
 
 I'm a full-stack blockchain developer, writer, and researcher focused on decentralized infrastructure, smart contracts, and financial sovereignty.
 
-As Co-Founder and Co-CEO of New World Cryptos® — launched in 2021 and registered with the USPTO in 2024 — I co-lead a dual-platform initiative for blockchain education and Web3 innovation. While I now lead development and research, the platform’s architecture and brand identity were built by my partner and co-founder, The Decentralized Dreamer, who designed both sites from the ground up.
+As Co-Founder of New World Cryptos® — launched in 2021 and registered with the USPTO in 2024 — I co-lead a dual-platform initiative for blockchain education and Web3 innovation. While I now lead development and research, the platform’s architecture and brand identity were built by my partner and co-founder, The Decentralized Dreamer, who designed both sites from the ground up.
 
 We operate two core platforms:
 
 - 🧠 [**NewWorldCryptos.io**](https://newworldcryptos.io) – A self-hosted Ghost publication for dev logs, crypto research, and sovereign signal
-- 🌐 [**NewWorldCryptos.mn.co**](https://newworldcryptos.mn.co) – Our original education and consulting community site (currently paused, will soon relaunch)
+- 🌐 [**NewWorldCryptos.com**](https://www.newworldcryptos.com) - Our official domain, currently redirecting to our Mighty Networks–powered community hub (paused; relaunch in progress)
 
 I work hands-on with Solidity, Hardhat, Foundry, Node.js, Rust/Anchor, and related tooling — blending code with market research to publish high-context insights for sovereign builders.
 
@@ -24,7 +24,7 @@ I work hands-on with Solidity, Hardhat, Foundry, Node.js, Rust/Anchor, and relat
  - Exploring macroeconomic shifts, governance models, and RWA/token utility
  - Starting builds on the SOL/RUST/ANCHOR system now as well
  - Publishing dev logs, DeFi research, and token analysis at NewWorldCryptos.io
- - Preparing to relaunch NewWorldCryptos.mn.co — our paused consulting and onboarding hub — after completing advanced blockchain studies
+ - Preparing to relaunch NewWorldCryptos.com — our paused consulting and onboarding hub — after completing advanced blockchain studies
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
    
@@ -56,7 +56,7 @@ I work hands-on with Solidity, Hardhat, Foundry, Node.js, Rust/Anchor, and relat
 ## 📫 Let’s Connect
 
 - 📰 [**NewWorldCryptos.io**](https://newworldcryptos.io) – The Journal
-- 🏛️ [**NewWorldCryptos.mn.co**](https://newworldcryptos.mn.co) – Community Site
+- 🏛️ [**NewWorldCryptos.com**](https://wwww.newworldcryptos.com) – Original Hub
 - 💼 [**Eugene McGrath**](https://linkedin.com/in/eugene-mcgrath-550b4897) – LinkedIn
 - 🐦 [**CryptoMachineG**](https://x.com/CryptoMachineG) – X (Twitter)
 - 🔗 [**CryptoMachineGene**](https://linktr.ee/CryptoMachineGene) – All Links & Projects (Linktree)
