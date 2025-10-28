@@ -16,7 +16,6 @@ I work hands-on with Solidity, Hardhat, Foundry, Node.js, Typescript, Rust/Ancho
  - Building Solidity-based projects (ERC-20/721 tokens, DApps, protocol logic)
  - Exploring macroeconomic shifts, governance models, and RWA/token utility
  - Starting builds on the SOL/RUST/ANCHOR system now as well
- - Publishing dev logs, DeFi research, and token analysis at NewWorldCryptos.io
  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
