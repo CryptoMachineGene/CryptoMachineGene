@@ -5,8 +5,8 @@
 
 ## Live Demo
 
-👉 Proofmint Capstone Demo Video: https://youtube.com/watch?v=CatHeV8tcII  
-👉 Portfolio Site: https://cryptomachinegene.github.io/gene-portfolio-web3  
+👉 Proofmint Capstone Demo Video: https://youtube.com/watch?v=CatHeV8tclI  
+👉 Portfolio Site: https://gene-portfolio-web3.vercel.app/#/demo
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
