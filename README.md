@@ -3,6 +3,13 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Live Demo
+
+👉 Proofmint Capstone Demo Video: https://youtube.com/watch?v=CatHeV8tcII  
+👉 Portfolio Site: https://cryptomachinegene.github.io/gene-portfolio-web3  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 🧠 About Me
 
 I'm a full-stack blockchain developer, writer, and researcher focused on decentralized infrastructure, and smart contracts. 
