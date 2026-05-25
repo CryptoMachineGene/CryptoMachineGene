@@ -5,8 +5,10 @@
 
 ## Live Demo
 
-👉 Proofmint Capstone Demo Video: https://youtube.com/watch?v=CatHeV8tclI  
+👉 Proofmint Capstone Demo Video: https://youtube.com/watch?v=CatHeV8tclI
+
 👉 Portfolio Site: https://gene-portfolio-web3.vercel.app/#/demo
+
 👉 Proofmint Analytics Layer Demo (The Graph + GraphQL): https://youtu.be/3igNmmwikg8
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
