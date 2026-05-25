@@ -7,6 +7,7 @@
 
 👉 Proofmint Capstone Demo Video: https://youtube.com/watch?v=CatHeV8tclI  
 👉 Portfolio Site: https://gene-portfolio-web3.vercel.app/#/demo
+👉 Proofmint Analytics Layer Demo (The Graph + GraphQL): https://youtu.be/3igNmmwikg8
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -14,7 +15,7 @@
 
 I'm a full-stack blockchain developer, writer, and researcher focused on decentralized infrastructure, and smart contracts. 
 
-I work hands-on with Solidity, Hardhat, Foundry, Node.js, Typescript, Rust/Anchor, REACT/REDUX and related tooling — blending code with market research to publish high-context insights for sovereign builders.
+I work hands-on with Solidity, Hardhat, Foundry, Node.js, Typescript, Rust/Anchor, React/Redux and related tooling — blending code with market research to publish high-context insights for sovereign builders.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
